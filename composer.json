@@ -9,7 +9,7 @@
     "description": "keyword filter",
     "autoload": {
         "psr-4": {
-            "Hyperf\\KeyWordFilter\\": "src/"
+            "KeyWordFilter\\": "src/"
         }
     },
     "autoload-dev": {
@@ -39,7 +39,7 @@
     },
     "extra": {
         "hyperf": {
-            "config": "Hyperf\\KeyWordFilter\\ConfigProvider"
+            "config": "KeyWordFilter\\ConfigProvider"
         }
     }
 }

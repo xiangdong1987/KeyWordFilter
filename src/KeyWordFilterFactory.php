@@ -6,7 +6,7 @@
  * Time: 14:00
  */
 
-namespace Hyperf\KeyWordFilter;
+namespace KeyWordFilter;
 
 use Psr\Container\ContainerInterface;
 use Hyperf\Contract\ConfigInterface;

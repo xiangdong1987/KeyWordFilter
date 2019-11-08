@@ -1,6 +1,6 @@
 <?php
 
-namespace Hyperf\KeyWordFilter;
+namespace KeyWordFilter;
 
 class TrieTree
 {
