@@ -20,7 +20,7 @@ class KeyWordFilterFactory
         if (!$config) {
             $config = [
                 'dictionaryPath' => [
-                    'default' => BASE_PATH . "/vendor/hyperf/keyWordFilter/src/default.txt"
+                    'default' => BASE_PATH . "/vendor/xdd/keyword-filter/src/default.txt"
                 ]
             ];
         }
